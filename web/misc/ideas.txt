@@ -1,0 +1,44 @@
+prodcast
+
+* Model this podcast after MFM
+    * There are business podcasts that go into more depth
+    * There are comedy podcasts that are funnier
+    * There is no better funny, business podcast
+    * We won’t win at being the best tech podcast, or the funniest podcast. We might just win at the intersection of the two
+* Emailed library to book podcast studio at uOttawa
+* A good mix of two types of episodes: 
+    * Type 1 episodes: Two programmers shooting the shit about cool stuff they found that week
+    * Type 2 episodes: Interviews with interesting people doing interesting things
+
+———
+
+* Goals for stream:
+* 
+* Name, logo
+* App where users can suggest ideas
+* 5 type 1 video concepts READY TO GO
+
+Early type 1 episodes: 
+* A noob’s guide to Linux (CRACKED arch linux setup)
+    * 
+
+* A $2,000K/month side hustle if you’re a broke student
+* How to build a data centre with laptops from the garbage
+* Clone overpriced SaaS and make bank
+* Learn functional programming and join the top 1% of developers
+* The pros and cons of working in open source
+
+Early type 2 episodes:
+* How to get a job at Shopify (w/ Jane and Angela)
+* How to start a software agency (Simon Barnes, leverage Gadget connections: Code, Radikal, onelive)
+* Farabi’s particle accelerator guy
+* Steph’s marketing tool and/or video game
+* Hai showcasing cats with bats
+* Rami Alhamad showcasing Alma
+* Mo and Harry showcasing Gadget
+* Edward Funnekotter or Ali Pourshahid or Ghaith showcasing Solace’s new AI offering (reach out to Stephanie Kailia to make the connection)
+* How to make a killer podcast (theprimeagen, Casey lee, DHH)
+
+I say record 5 type 1 episodes before we start inviting guests. That way, we get reps and build the brand a bit (not a hill I’m willing to die on tho…)
+
+Make Gadget kanban board where people can contribute 

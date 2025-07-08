@@ -1,0 +1,39 @@
+* PRODCAST
+
+1. AGENDA
+
+2. INTRODUCTION
+
+   Host: [[https://www.linkedin.com/in/gabe-braden/][Gabe Braden]]
+
+   Guest: [[https://www.linkedin.com/in/mfarabi/][Mumtahin Farabi]]
+
+3. INSTALLATION
+
+#+begin_src sh
+pnpm i -g ggt
+#+end_src
+
+#+begin_src sh
+git init -b main
+#+end_src
+
+#+begin_src sh
+gh repo create --public -s .
+#+end_src
+
+#+begin_src sh
+? What would you like to do? Push an existing local repository to github.com
+? Path to local repository .
+? Repository name prodcast
+? Repository owner MFarabi619
+? Description Podcast management with Gadget :)
+? Visibility Public
+✓ Created repository MFarabi619/prodcast on github.com
+  https://github.com/MFarabi619/prodcast
+? Add a remote? Yes
+? What should the new remote be called? origin
+✓ Added remote https://github.com/MFarabi619/prodcast.git
+#+end_src
+
+4.
